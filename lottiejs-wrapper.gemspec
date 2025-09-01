@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors     = [ "Chirana" ]
   spec.email       = [ "engsw.thiago@gmail.com" ]
   spec.homepage    = "https://github.com/thiagochirana/lottiejs-wrapper"
-  spec.summary     = "Wrapper for LottieJS"
-  spec.description = "Wrapper for LottieJS"
+  spec.summary     = "A community-made unofficial wrapper to easily integrate Lottie files into your Rails application using Stimulus.js"
+  spec.description = "A community-made unofficial wrapper to easily integrate Lottie files into your Rails application using Stimulus.js"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"
