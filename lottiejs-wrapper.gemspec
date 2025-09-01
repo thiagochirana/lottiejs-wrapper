@@ -1,8 +1,8 @@
-require_relative "lib/lottiejs/wrapper/version"
+require_relative "lib/lottie/version"
 
 Gem::Specification.new do |spec|
   spec.name        = "lottiejs-wrapper"
-  spec.version     = Lottiejs::Wrapper::VERSION
+  spec.version     = Lottie::VERSION
   spec.authors     = [ "Chirana" ]
   spec.email       = [ "engsw.thiago@gmail.com" ]
   spec.homepage    = "https://github.com/thiagochirana/lottiejs-wrapper"
